@@ -7,3 +7,5 @@
     docker build . -f Dockerfile -t elixir-validator 
     
     docker run -d --restart unless-stopped  --name elixir elixir-validator
+## Check 
+    https://metrics.elixir.finance/

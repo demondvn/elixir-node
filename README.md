@@ -1,10 +1,8 @@
 # elixir-node
 
-    wget https://testnet-1-files.elixir.finance/Dockerfile
-    
-    nano Dockerfile 
+    docker build . -t elixir-validator --build-arg ADDRESS= --build-arg PRIVATE_KEY= --pull
 ### update private and address.
-    docker build . -f Dockerfile -t elixir-validator 
+
     
     docker run -d --restart unless-stopped  --name elixir elixir-validator
 ## Check 

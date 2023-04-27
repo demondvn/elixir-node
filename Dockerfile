@@ -1,1 +1,1 @@
-FROM elixirprotocol/validator:testnet-1
+FROM elixirprotocol/validator:testnet-2

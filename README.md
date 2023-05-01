@@ -9,4 +9,4 @@
     https://metrics.elixir.finance/
 
 ## Docs
-[https://docs.elixir.finance/running-an-elixir-validator](https://docs.elixir.finance/running-an-elixir-validator)
+[https://dashboard.elixir.finance/](https://dashboard.elixir.finance/)
